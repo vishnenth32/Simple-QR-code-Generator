@@ -1,6 +1,6 @@
 import qrcode
 
-data="hello , this is a way to create a qr code in simple "
+data="  Enter the details which you need to print in qr (link, text etc) "
 
 qr=qrcode.make(data)
 
